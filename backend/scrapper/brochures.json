@@ -1,0 +1,1020 @@
+{
+  "_embedded": {
+    "contents": [
+      {
+        "placement": "ad_placement__shelf_fixed_position_1",
+        "adFormat": "ad_format__brochure_card_cover",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochure",
+        "content": {
+          "id": 2500731202,
+          "contentId": "298ecb89-b916-49a3-a6b1-691ae90e3da7",
+          "title": "LIDL LOHNT SICH",
+          "validFrom": "2025-06-15T22:00:00.000+0000",
+          "validUntil": "2025-06-21T18:00:00.000+0000",
+          "publishedFrom": "2025-06-14T18:00:00.000+0000",
+          "publishedUntil": "2025-06-21T18:00:00.000+0000",
+          "type": "BROCHURE",
+          "brochureImage": "https://content-media.bonial.biz/298ecb89-b916-49a3-a6b1-691ae90e3da7/preview.jpg",
+          "pageCount": 63,
+          "publisher": {
+            "id": "DE-1013",
+            "name": "Lidl",
+            "type": "RETAILER"
+          },
+          "contentBadges": [
+            {
+              "name": "new"
+            }
+          ],
+          "distance": 0.7580557737871666,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-33068",
+            "latitude": 52.43103,
+            "longitude": 13.54801,
+            "street": "Adlergestell",
+            "streetNumber": "291",
+            "zip": "12489",
+            "city": "Berlin"
+          }
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": []
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_fixed_position_2",
+        "adFormat": "ad_format__brochure_card_cover",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochure",
+        "content": {
+          "id": 2500732935,
+          "contentId": "0c9a5334-7ec2-4317-ad43-be67c644e852",
+          "title": "Dein Markt",
+          "validFrom": "2025-06-15T22:00:00.000+0000",
+          "validUntil": "2025-06-21T21:00:00.000+0000",
+          "publishedFrom": "2025-06-14T22:00:00.000+0000",
+          "publishedUntil": "2025-06-21T22:00:00.000+0000",
+          "type": "BROCHURE",
+          "brochureImage": "https://content-media.bonial.biz/0c9a5334-7ec2-4317-ad43-be67c644e852/preview.jpg",
+          "pageCount": 32,
+          "publisher": {
+            "id": "DE-1062",
+            "name": "REWE",
+            "type": "RETAILER"
+          },
+          "contentBadges": [
+            {
+              "name": "new"
+            }
+          ],
+          "distance": 0.8730598811463893,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-66009328",
+            "latitude": 52.418,
+            "longitude": 13.537,
+            "street": "Schönefelder Chaussee",
+            "streetNumber": "1",
+            "zip": "12524",
+            "city": "Berlin / Altglienicke"
+          }
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": []
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": "ad_format__brochure_premium",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochurePremium",
+        "content": {
+          "id": 2500739426,
+          "contentId": "94846019-e938-4d92-a8f6-3dff711e84ae",
+          "title": "IKEA Family Angebot des Monats",
+          "validFrom": "2025-06-08T22:00:00.000+0000",
+          "validUntil": "2025-06-22T21:59:00.000+0000",
+          "publishedFrom": "2025-06-18T11:00:00.000+0000",
+          "publishedUntil": "2025-06-22T21:59:00.000+0000",
+          "type": "DYNAMIC",
+          "brochureImage": "https://content-media.bonial.biz/94846019-e938-4d92-a8f6-3dff711e84ae/preview.jpg",
+          "pageCount": 0,
+          "publisher": {
+            "id": "DE-1002",
+            "name": "IKEA",
+            "type": "RETAILER"
+          },
+          "contentBadges": [],
+          "distance": 0.0,
+          "hideValidityDate": false
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": [
+            "https://track.adform.net/adfserve/?bn=78034295;1x1inv=1;srctype=3;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_50};ord=${timestamp}"
+          ]
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": "ad_format__brochure_premium",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochurePremium",
+        "content": {
+          "id": 2500735351,
+          "contentId": "db3c3160-b0ef-48a5-ac34-d99ad797890e",
+          "title": "Top Angebote",
+          "validFrom": "2025-06-17T22:00:00.000+0000",
+          "validUntil": "2025-06-23T21:59:00.000+0000",
+          "publishedFrom": "2025-06-17T22:00:00.000+0000",
+          "publishedUntil": "2025-06-23T21:59:00.000+0000",
+          "type": "BROCHURE",
+          "brochureImage": "https://content-media.bonial.biz/db3c3160-b0ef-48a5-ac34-d99ad797890e/preview.jpg",
+          "pageCount": 16,
+          "publisher": {
+            "id": "DE-32258361",
+            "name": "expert",
+            "type": "RETAILER"
+          },
+          "contentBadges": [
+            {
+              "name": "new"
+            }
+          ],
+          "distance": 15.176194529804084,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-103158682",
+            "latitude": 52.2991,
+            "longitude": 13.4566,
+            "street": "Klein Kienitzer Straße",
+            "streetNumber": "2",
+            "zip": "15834",
+            "city": "Rangsdorf"
+          }
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": []
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": "ad_format__brochure_card_cover",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochure",
+        "content": {
+          "id": 2500731453,
+          "contentId": "7e52e9e7-820b-4d6b-bbcf-572f6aa9bbd5",
+          "title": "Aktuelle Angebote",
+          "validFrom": "2025-06-15T22:00:00.000+0000",
+          "validUntil": "2025-06-21T20:00:00.000+0000",
+          "publishedFrom": "2025-06-14T22:00:00.000+0000",
+          "publishedUntil": "2025-06-21T20:00:00.000+0000",
+          "type": "BROCHURE",
+          "brochureImage": "https://content-media.bonial.biz/7e52e9e7-820b-4d6b-bbcf-572f6aa9bbd5/preview.jpg",
+          "pageCount": 18,
+          "publisher": {
+            "id": "DE-220164",
+            "name": "EDEKA",
+            "type": "RETAILER"
+          },
+          "contentBadges": [
+            {
+              "name": "new"
+            }
+          ],
+          "distance": 1.5054772794343507,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-163974",
+            "latitude": 52.4381,
+            "longitude": 13.5487,
+            "street": "Dörpfeldstraße",
+            "streetNumber": "46",
+            "zip": "12489",
+            "city": "Berlin"
+          }
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": []
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": "ad_format__brochure_card_cover",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochure",
+        "content": {
+          "id": 2500731478,
+          "contentId": "8b62ab8a-83f3-4dae-9b1c-68c7647edf3c",
+          "title": "Aktuelle Angebote",
+          "validFrom": "2025-06-15T22:00:00.000+0000",
+          "validUntil": "2025-06-21T20:00:00.000+0000",
+          "publishedFrom": "2025-06-14T22:00:00.000+0000",
+          "publishedUntil": "2025-06-21T20:00:00.000+0000",
+          "type": "BROCHURE",
+          "brochureImage": "https://content-media.bonial.biz/8b62ab8a-83f3-4dae-9b1c-68c7647edf3c/preview.jpg",
+          "pageCount": 24,
+          "publisher": {
+            "id": "DE-3443181",
+            "name": "E center",
+            "type": "RETAILER"
+          },
+          "contentBadges": [
+            {
+              "name": "new"
+            }
+          ],
+          "distance": 2.8297539967970993,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-1693203839",
+            "latitude": 52.4022,
+            "longitude": 13.5243,
+            "street": "Siriusstraße",
+            "streetNumber": "1",
+            "zip": "12524",
+            "city": "Berlin"
+          }
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": []
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": "ad_format__brochure_premium",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochurePremium",
+        "content": {
+          "id": 2500729278,
+          "contentId": "e183cf14-1d72-4064-b367-6aed8220f67d",
+          "title": "LET'S GO DEALS - FREITAG DER 13.",
+          "validFrom": "2025-06-09T07:00:00.000+0000",
+          "validUntil": "2025-06-23T06:59:00.000+0000",
+          "publishedFrom": "2025-06-09T07:00:00.000+0000",
+          "publishedUntil": "2025-06-23T06:59:00.000+0000",
+          "type": "BROCHURE",
+          "brochureImage": "https://content-media.bonial.biz/e183cf14-1d72-4064-b367-6aed8220f67d/preview.jpg",
+          "pageCount": 16,
+          "publisher": {
+            "id": "DE-1024",
+            "name": "MediaMarkt Saturn",
+            "type": "RETAILER"
+          },
+          "contentBadges": [],
+          "distance": 4.168893529377823,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-29144",
+            "latitude": 52.4565,
+            "longitude": 13.5089,
+            "street": "Schnellerstraße",
+            "streetNumber": "21",
+            "zip": "12439",
+            "city": "Berlin"
+          }
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": []
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": "ad_format__brochure_card_cover",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochure",
+        "content": {
+          "id": 2500726583,
+          "contentId": "97fb5233-8cf6-4401-810d-0f896d926f06",
+          "title": "Abenteuer Mode",
+          "validFrom": "2025-06-04T22:00:00.000+0000",
+          "validUntil": "2025-06-18T21:00:00.000+0000",
+          "publishedFrom": "2025-06-05T16:00:00.000+0000",
+          "publishedUntil": "2025-06-18T21:00:00.000+0000",
+          "type": "DYNAMIC",
+          "brochureImage": "https://content-media.bonial.biz/97fb5233-8cf6-4401-810d-0f896d926f06/preview.jpg",
+          "pageCount": 0,
+          "publisher": {
+            "id": "DE-25678496",
+            "name": "Ernstings family",
+            "type": "RETAILER"
+          },
+          "contentBadges": [
+            {
+              "name": "expiring_soon"
+            }
+          ],
+          "distance": 3.5429251932540198,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-55527360",
+            "latitude": 52.4413,
+            "longitude": 13.5875,
+            "street": "Pablo-Neruda-Straße",
+            "streetNumber": "2-4",
+            "zip": "12559",
+            "city": "Berlin"
+          }
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": []
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": "ad_format__brochure_card_cover",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochure",
+        "content": {
+          "id": 2500731399,
+          "contentId": "0b74879f-6327-4eae-9042-19fe74fff543",
+          "title": "Mini-Hörgeräte testen",
+          "validFrom": "2025-06-09T22:00:00.000+0000",
+          "validUntil": "2025-06-25T20:00:00.000+0000",
+          "publishedFrom": "2025-06-18T06:00:00.000+0000",
+          "publishedUntil": "2025-06-18T16:00:00.000+0000",
+          "type": "DYNAMIC",
+          "brochureImage": "https://content-media.bonial.biz/0b74879f-6327-4eae-9042-19fe74fff543/preview.jpg",
+          "pageCount": 0,
+          "publisher": {
+            "id": "DE-10000002123",
+            "name": "audibene",
+            "type": "MANUFACTURER"
+          },
+          "contentBadges": [],
+          "distance": 3.346315836604531,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-10000115964",
+            "latitude": 52.404065,
+            "longitude": 13.507214,
+            "street": "Lieselotte-Berger-Platz",
+            "streetNumber": "9",
+            "zip": "12355",
+            "city": "Berlin"
+          }
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": []
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": null,
+        "contentFormatSource": "destinationsApi",
+        "contentType": "blogCarousel",
+        "content": [
+          {
+            "id": 5270,
+            "campaign_item_id": "",
+            "title": "Frida Kahlo Kollektion bei REWE - jetzt exklusive Produkte sichern!",
+            "link": "https://www.kaufda.de/insights/frida-kahlo-kollektion-bei-rewe-jetzt-exklusive-produkte-sichern/",
+            "imgURL": "https://web-assets.kaufda.de/gezeichnetes_Portraet_von_Frida_Kahlo_mit_Schriftzug_vor_gruenem_Hintergrund_732fb2a401.png?impolicy=BLOG_ARTICLE",
+            "teaserText": "Frida Kahlo zieht bei REWE ein! Hier gibt es alle Details zu der brandneuen und exklusiven Frida Kahlo Kollektion bei REWE - Produkte, Preise & mehr im Überblick."
+          },
+          {
+            "id": 5250,
+            "campaign_item_id": "",
+            "title": "Unsere neue Einkaufsliste - Entdecke die Funktionen!",
+            "link": "https://www.kaufda.de/insights/unsere-neue-einkaufsliste-entdecke-die-funktionen/",
+            "imgURL": "https://web-assets.kaufda.de/kauf_DA_Einkaufskliste_Header_Image_7eaafe2192.png?impolicy=BLOG_ARTICLE",
+            "teaserText": "Einkaufsliste mit Freunden und Familie teilen? Na klar! Wir präsentieren euch die neue, kostenlose Einkaufsliste in der kaufDA App - alle Funktionen im Überblick!"
+          },
+          {
+            "id": 5236,
+            "campaign_item_id": "",
+            "title": "Die Produktneuheiten im Juni 2025",
+            "link": "https://www.kaufda.de/insights/die-produktneuheiten-im-juni-2025/",
+            "imgURL": "https://web-assets.kaufda.de/Produkt_Highlights_e74a90bf03.png?impolicy=BLOG_ARTICLE",
+            "teaserText": "Entdecke hier die interessantesten Produktneuheiten im Juni 2025! Erfahre mehr über die neuen Produkte von Dr. Oetker, Barilla und Nescafé!"
+          },
+          {
+            "id": 5237,
+            "campaign_item_id": "",
+            "title": "Stiftung Warentest 2025: Das ist der sicherste Autokindersitz!",
+            "link": "https://www.kaufda.de/insights/stiftung-warentest-2025-das-ist-der-sicherste-autokindersitz/",
+            "imgURL": "https://web-assets.kaufda.de/Mutter_schnallt_ihre_Tochter_in_einem_Autokindersitz_an_b6dad7b112.png?impolicy=BLOG_ARTICLE",
+            "teaserText": "Sicher, robust und langlebig: Hier kommen die besten Ergebnisse der Stiftung Warentest für Autokindersitze!"
+          },
+          {
+            "id": 5231,
+            "campaign_item_id": "",
+            "title": " DFB x EDEKA Herzstücke Offizielle Stadion Bratwurst",
+            "link": "https://www.kaufda.de/insights/edeka-herzstuecke-offizielle-stadion-bratwurst-jetzt-mit-dfb-feeling/",
+            "imgURL": "https://web-assets.kaufda.de/Wimpernserum_c5fcc9a194.png?impolicy=BLOG_ARTICLE",
+            "teaserText": "Entdecke die neue EDEKA Herzstücke Stadion Bratwurst – offizielles DFB-Produkt mit Stadionfeeling für zuhause. Jetzt bei EDEKA erhältlich!"
+          }
+        ],
+        "externalTracking": {
+          "impression": [],
+          "click": []
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": "ad_format__brochure_card_cover",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochure",
+        "content": {
+          "id": 2500731382,
+          "contentId": "ea19aca3-ff17-410b-9632-1e83f09117ec",
+          "title": "Mini-Hörgeräte testen",
+          "validFrom": "2025-06-09T22:00:00.000+0000",
+          "validUntil": "2025-06-25T20:00:00.000+0000",
+          "publishedFrom": "2025-06-18T06:00:00.000+0000",
+          "publishedUntil": "2025-06-18T16:00:00.000+0000",
+          "type": "DYNAMIC",
+          "brochureImage": "https://content-media.bonial.biz/ea19aca3-ff17-410b-9632-1e83f09117ec/preview.jpg",
+          "pageCount": 0,
+          "publisher": {
+            "id": "DE-10000002123",
+            "name": "audibene",
+            "type": "MANUFACTURER"
+          },
+          "contentBadges": [],
+          "distance": 7.573258719880638,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-10000115916",
+            "latitude": 52.364764,
+            "longitude": 13.594285,
+            "street": "Richard-Israel-Straße",
+            "streetNumber": "3",
+            "zip": "15732",
+            "city": "Schulzendorf"
+          }
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": []
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": "ad_format__brochure_card_cover",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochure",
+        "content": {
+          "id": 2500739424,
+          "contentId": "78d96c29-97c6-49d8-a1e8-17e9f9890d1a",
+          "title": "kleine Preise, grosse Freude!",
+          "validFrom": "2025-06-17T22:00:00.000+0000",
+          "validUntil": "2025-06-24T21:00:00.000+0000",
+          "publishedFrom": "2025-06-17T22:00:00.000+0000",
+          "publishedUntil": "2025-06-24T21:00:00.000+0000",
+          "type": "BROCHURE",
+          "brochureImage": "https://content-media.bonial.biz/78d96c29-97c6-49d8-a1e8-17e9f9890d1a/preview.jpg",
+          "pageCount": 34,
+          "publisher": {
+            "id": "DE-690854387",
+            "name": "Action",
+            "type": "RETAILER"
+          },
+          "contentBadges": [
+            {
+              "name": "new"
+            }
+          ],
+          "distance": 0.32151033492496167,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-1026870240",
+            "latitude": 52.422733,
+            "longitude": 13.539772,
+            "street": "Köpenicker Straße",
+            "streetNumber": "11",
+            "zip": "12524",
+            "city": "Berlin-Altglienicke"
+          }
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": []
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": "ad_format__brochure_card_cover",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochure",
+        "content": {
+          "id": 2500738648,
+          "contentId": "001e27c3-efb9-492e-aa98-7d8f464de1aa",
+          "title": "Koffer packen, fertig, Urlaub",
+          "validFrom": "2025-06-17T22:00:00.000+0000",
+          "validUntil": "2025-07-06T21:00:00.000+0000",
+          "publishedFrom": "2025-06-17T22:00:00.000+0000",
+          "publishedUntil": "2025-07-06T21:00:00.000+0000",
+          "type": "BROCHURE",
+          "brochureImage": "https://content-media.bonial.biz/001e27c3-efb9-492e-aa98-7d8f464de1aa/preview.jpg",
+          "pageCount": 6,
+          "publisher": {
+            "id": "DE-909",
+            "name": "dm-drogerie markt",
+            "type": "RETAILER"
+          },
+          "contentBadges": [
+            {
+              "name": "new"
+            }
+          ],
+          "distance": 1.055376397541267,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-474569225",
+            "latitude": 52.425669,
+            "longitude": 13.526963,
+            "street": "Semmelweisstraße",
+            "streetNumber": "104a",
+            "zip": "12524",
+            "city": "Berlin-Altglienicke"
+          }
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": []
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": "ad_format__brochure_card_cover",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochure",
+        "content": {
+          "id": 2500738377,
+          "contentId": "e0b94d1c-9131-4f84-a1f1-307c59097c90",
+          "title": "Immer eine Idee besser",
+          "validFrom": "2025-06-14T22:00:00.000+0000",
+          "validUntil": "2025-06-21T21:00:00.000+0000",
+          "publishedFrom": "2025-06-16T11:30:00.000+0000",
+          "publishedUntil": "2025-06-30T21:00:00.000+0000",
+          "type": "BROCHURE",
+          "brochureImage": "https://content-media.bonial.biz/e0b94d1c-9131-4f84-a1f1-307c59097c90/preview.jpg",
+          "pageCount": 20,
+          "publisher": {
+            "id": "DE-983",
+            "name": "Globus-Baumarkt",
+            "type": "RETAILER"
+          },
+          "contentBadges": [],
+          "distance": 2.9397237097412803,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-626322097",
+            "latitude": 52.4337,
+            "longitude": 13.5015,
+            "street": "Eisenhutweg",
+            "streetNumber": "2",
+            "zip": "12487",
+            "city": "Berlin-Treptow"
+          }
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": []
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": "ad_format__brochure_card_cover",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochure",
+        "content": {
+          "id": 2500738298,
+          "contentId": "a51e49c1-8e86-4285-957d-8f7b85848c53",
+          "title": "LIDL LOHNT SICH",
+          "validFrom": "2025-06-22T22:00:00.000+0000",
+          "validUntil": "2025-06-28T18:00:00.000+0000",
+          "publishedFrom": "2025-06-15T22:00:00.000+0000",
+          "publishedUntil": "2025-06-20T22:00:00.000+0000",
+          "type": "BROCHURE",
+          "brochureImage": "https://content-media.bonial.biz/a51e49c1-8e86-4285-957d-8f7b85848c53/preview.jpg",
+          "pageCount": 64,
+          "publisher": {
+            "id": "DE-1013",
+            "name": "Lidl",
+            "type": "RETAILER"
+          },
+          "contentBadges": [
+            {
+              "name": "new"
+            }
+          ],
+          "distance": 0.7580557737871666,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-33068",
+            "latitude": 52.43103,
+            "longitude": 13.54801,
+            "street": "Adlergestell",
+            "streetNumber": "291",
+            "zip": "12489",
+            "city": "Berlin"
+          }
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": []
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": "ad_format__brochure_card_cover",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochure",
+        "content": {
+          "id": 2500737187,
+          "contentId": "567d183e-ac13-464a-9ec0-5c05cdd6b3b9",
+          "title": "BIBERSTARKE ANGEBOTE",
+          "validFrom": "2025-05-31T22:00:00.000+0000",
+          "validUntil": "2025-06-30T21:00:00.000+0000",
+          "publishedFrom": "2025-06-15T22:00:00.000+0000",
+          "publishedUntil": "2025-06-30T21:00:00.000+0000",
+          "type": "BROCHURE",
+          "brochureImage": "https://content-media.bonial.biz/567d183e-ac13-464a-9ec0-5c05cdd6b3b9/preview.jpg",
+          "pageCount": 24,
+          "publisher": {
+            "id": "DE-1042",
+            "name": "OBI",
+            "type": "RETAILER"
+          },
+          "contentBadges": [],
+          "distance": 0.7674689259962495,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-15820300",
+            "latitude": 52.429985,
+            "longitude": 13.550493,
+            "street": "Adlergestell",
+            "streetNumber": "303",
+            "zip": "12489",
+            "city": "Berlin-Adlershof"
+          }
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": []
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": "ad_format__brochure_premium",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochurePremium",
+        "content": {
+          "id": 2500735505,
+          "contentId": "d645d088-bfd0-42ce-ac17-79d5d8018d66",
+          "title": "Aktuelle Angebote",
+          "validFrom": "2025-06-15T22:00:00.000+0000",
+          "validUntil": "2025-06-22T21:00:00.000+0000",
+          "publishedFrom": "2025-06-15T22:00:00.000+0000",
+          "publishedUntil": "2025-06-21T21:00:00.000+0000",
+          "type": "DYNAMIC",
+          "brochureImage": "https://content-media.bonial.biz/d645d088-bfd0-42ce-ac17-79d5d8018d66/preview.jpg",
+          "pageCount": 0,
+          "publisher": {
+            "id": "DE-657872102",
+            "name": "Tchibo im Supermarkt",
+            "type": "MANUFACTURER"
+          },
+          "contentBadges": [
+            {
+              "name": "new"
+            }
+          ],
+          "distance": 0.8730598811463893,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-66009328",
+            "latitude": 52.418,
+            "longitude": 13.537,
+            "street": "Schönefelder Chaussee",
+            "streetNumber": "1",
+            "zip": "12524",
+            "city": "Berlin / Altglienicke"
+          }
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": [
+            "https://track.adform.net/adfserve/?bn=81087528;1x1inv=1;srctype=3;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_50};ord=${timestamp}"
+          ]
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": "ad_format__brochure_card_cover",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochure",
+        "content": {
+          "id": 2500731088,
+          "contentId": "b5eb5112-9466-494b-b703-8a679b3081f0",
+          "title": "20%",
+          "validFrom": "2025-06-19T22:00:00.000+0000",
+          "validUntil": "2025-06-22T21:00:00.000+0000",
+          "publishedFrom": "2025-06-15T22:00:00.000+0000",
+          "publishedUntil": "2025-06-22T21:00:00.000+0000",
+          "type": "BROCHURE",
+          "brochureImage": "https://content-media.bonial.biz/b5eb5112-9466-494b-b703-8a679b3081f0/preview.jpg",
+          "pageCount": 1,
+          "publisher": {
+            "id": "DE-90881676",
+            "name": "Pflanzen Kölle",
+            "type": "RETAILER"
+          },
+          "contentBadges": [
+            {
+              "name": "new"
+            }
+          ],
+          "distance": 11.90194115768484,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-90883507",
+            "latitude": 52.502,
+            "longitude": 13.6647,
+            "street": "Bollensdorfer Weg",
+            "streetNumber": "2-4",
+            "zip": "15366",
+            "city": "Dahlwitz-Hoppegarten"
+          }
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": []
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": "ad_format__brochure_card_cover",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochure",
+        "content": {
+          "id": 2500736469,
+          "contentId": "f17c7734-8d9a-4d34-afec-74343aa9dc07",
+          "title": "Aktuelle Angebote",
+          "validFrom": "2025-06-15T22:00:00.000+0000",
+          "validUntil": "2025-06-21T20:00:00.000+0000",
+          "publishedFrom": "2025-06-14T22:00:00.000+0000",
+          "publishedUntil": "2025-06-21T20:00:00.000+0000",
+          "type": "BROCHURE",
+          "brochureImage": "https://content-media.bonial.biz/f17c7734-8d9a-4d34-afec-74343aa9dc07/preview.jpg",
+          "pageCount": 22,
+          "publisher": {
+            "id": "DE-1030",
+            "name": "Müller",
+            "type": "RETAILER"
+          },
+          "contentBadges": [
+            {
+              "name": "new"
+            }
+          ],
+          "distance": 5.8260468424857175,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-1327988419",
+            "latitude": 52.430202,
+            "longitude": 13.456982,
+            "street": "Johannisthaler Chaussee",
+            "streetNumber": "317",
+            "zip": "12351",
+            "city": "Berlin"
+          }
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": []
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": "ad_format__brochure_card_cover",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochure",
+        "content": {
+          "id": 2500736442,
+          "contentId": "9750d876-2e01-4694-8941-47da15c54f9e",
+          "title": "Besser gleich zu porta.",
+          "validFrom": "2025-06-14T22:00:00.000+0000",
+          "validUntil": "2025-06-28T21:00:00.000+0000",
+          "publishedFrom": "2025-06-14T22:00:00.000+0000",
+          "publishedUntil": "2025-06-28T21:00:00.000+0000",
+          "type": "BROCHURE",
+          "brochureImage": "https://content-media.bonial.biz/9750d876-2e01-4694-8941-47da15c54f9e/preview.jpg",
+          "pageCount": 18,
+          "publisher": {
+            "id": "DE-34906483",
+            "name": "porta Möbel",
+            "type": "RETAILER"
+          },
+          "contentBadges": [],
+          "distance": 10.039534341296315,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-679197138",
+            "latitude": 52.5011,
+            "longitude": 13.6225,
+            "street": "Alt-Mahlsdorf",
+            "streetNumber": "85",
+            "zip": "12623",
+            "city": "Berlin-Mahlsdorf"
+          }
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": []
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": "ad_format__brochure_card_cover",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochure",
+        "content": {
+          "id": 2500735075,
+          "contentId": "b9eca9fc-b80f-4dd3-a0ed-75d120924b44",
+          "title": "Last Minute Angebote",
+          "validFrom": "2025-06-12T22:00:00.000+0000",
+          "validUntil": "2025-10-10T21:00:00.000+0000",
+          "publishedFrom": "2025-06-12T22:00:00.000+0000",
+          "publishedUntil": "2025-06-23T21:00:00.000+0000",
+          "type": "DYNAMIC",
+          "brochureImage": "https://content-media.bonial.biz/b9eca9fc-b80f-4dd3-a0ed-75d120924b44/preview.jpg",
+          "pageCount": 0,
+          "publisher": {
+            "id": "DE-1624448755",
+            "name": "Center Parcs",
+            "type": "RETAILER"
+          },
+          "contentBadges": [],
+          "distance": 249.12860600224687,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-1624449549",
+            "latitude": 53.0678,
+            "longitude": 9.99643,
+            "street": "Töpinger Straße",
+            "streetNumber": "69",
+            "zip": "29646",
+            "city": "Bispingen"
+          }
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": []
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": "ad_format__brochure_card_cover",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochure",
+        "content": {
+          "id": 2500726620,
+          "contentId": "d62cc5a2-eab0-4127-9f80-69d4f09222fb",
+          "title": "Ready for your summer adventure",
+          "validFrom": "2025-06-05T22:00:00.000+0000",
+          "validUntil": "2025-08-31T20:00:00.000+0000",
+          "publishedFrom": "2025-06-10T11:00:00.000+0000",
+          "publishedUntil": "2025-08-31T20:00:00.000+0000",
+          "type": "DYNAMIC",
+          "brochureImage": "https://content-media.bonial.biz/d62cc5a2-eab0-4127-9f80-69d4f09222fb/preview.jpg",
+          "pageCount": 0,
+          "publisher": {
+            "id": "DE-424127675",
+            "name": "Canon",
+            "type": "MANUFACTURER"
+          },
+          "contentBadges": [],
+          "distance": 10.356073727564608,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-10000163927",
+            "latitude": 52.386493,
+            "longitude": 13.403569,
+            "street": "Bahnhofstraße",
+            "streetNumber": "51",
+            "zip": "12305",
+            "city": "Berlin"
+          }
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": []
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": "ad_format__brochure_card_cover",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochure",
+        "content": {
+          "id": 2500726258,
+          "contentId": "5affc8b9-eb90-4b6c-ac8f-2b4667ac0c11",
+          "title": "30 JAHRE. WIR FEIERN MIT TOLLEN ANGEBOTEN UND AKTIONEN FÜR DICH.",
+          "validFrom": "2025-06-08T22:00:00.000+0000",
+          "validUntil": "2025-06-22T21:00:00.000+0000",
+          "publishedFrom": "2025-06-08T22:00:00.000+0000",
+          "publishedUntil": "2025-06-22T21:00:00.000+0000",
+          "type": "BROCHURE",
+          "brochureImage": "https://content-media.bonial.biz/5affc8b9-eb90-4b6c-ac8f-2b4667ac0c11/preview.jpg",
+          "pageCount": 12,
+          "publisher": {
+            "id": "DE-131390610",
+            "name": "Telekom Shop",
+            "type": "RETAILER"
+          },
+          "contentBadges": [],
+          "distance": 4.415141679717102,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-288415825",
+            "latitude": 52.45818,
+            "longitude": 13.578525,
+            "street": "Bahnhofstraße",
+            "streetNumber": "33",
+            "zip": "12555",
+            "city": "Berlin"
+          }
+        },
+        "externalTracking": {
+          "impression": [
+            "https://a1.adform.net/adfserve/?bn=80937383;1x1inv=1;srctype=3;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_50};ord=${timestamp}"
+          ],
+          "click": []
+        }
+      },
+      {
+        "placement": "ad_placement__shelf_sort_managed",
+        "adFormat": "ad_format__brochure_card_cover",
+        "contentFormatSource": "destinationsApi",
+        "contentType": "brochure",
+        "content": {
+          "id": 2500726333,
+          "contentId": "4952480d-91dc-4ea9-9f29-3de0578c9916",
+          "title": "ROLLER HOT SALE",
+          "validFrom": "2025-06-07T22:00:00.000+0000",
+          "validUntil": "2025-06-21T21:00:00.000+0000",
+          "publishedFrom": "2025-06-07T22:00:00.000+0000",
+          "publishedUntil": "2025-06-21T21:00:00.000+0000",
+          "type": "BROCHURE",
+          "brochureImage": "https://content-media.bonial.biz/4952480d-91dc-4ea9-9f29-3de0578c9916/preview.jpg",
+          "pageCount": 22,
+          "publisher": {
+            "id": "DE-1063",
+            "name": "ROLLER",
+            "type": "RETAILER"
+          },
+          "contentBadges": [],
+          "distance": 0.8188641739077313,
+          "hideValidityDate": false,
+          "closestStore": {
+            "id": "DE-1659149778",
+            "latitude": 52.4294,
+            "longitude": 13.5523,
+            "street": "Adlergestell",
+            "streetNumber": "327-331",
+            "zip": "12489",
+            "city": "Berlin-Adlergestell"
+          }
+        },
+        "externalTracking": {
+          "impression": [],
+          "click": []
+        }
+      }
+    ]
+  },
+  "_links": {
+    "first": {
+      "href": "https://destinationsapi.kaufda.de/v4/shelf/withStorySnippets?includeExtendedData=false&page=0&size=24"
+    },
+    "self": {
+      "href": "https://destinationsapi.kaufda.de/v4/shelf/withStorySnippets?includeExtendedData=false&page=0&size=24"
+    },
+    "next": {
+      "href": "https://destinationsapi.kaufda.de/v4/shelf/withStorySnippets?includeExtendedData=false&page=1&size=24"
+    },
+    "last": {
+      "href": "https://destinationsapi.kaufda.de/v4/shelf/withStorySnippets?includeExtendedData=false&page=3&size=24"
+    }
+  },
+  "page": {
+    "size": 24,
+    "totalElements": 90,
+    "totalPages": 4,
+    "number": 0
+  }
+}

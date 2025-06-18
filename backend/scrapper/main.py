@@ -242,12 +242,23 @@ def scrape_kaufda_products(id, store):
             return False
         
         # Save to CSV
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        csv_filename = f"{store}_products_{timestamp}.csv"
-        df.to_csv(csv_filename, index=False, encoding="utf-8")
+        # timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        # csv_filename = f"{store}_products_{timestamp}.csv"
+        # df.to_csv(csv_filename, index=False, encoding="utf-8")
         
+        # print(f"Successfully scraped {len(products)} products. Saved to {csv_filename}")
+        # return True
+        # Create the scrapped folder if it doesn't exist
+        os.makedirs("scrapped", exist_ok=True)
+
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        csv_filename = f"scrapped/{store}_products_{timestamp}.csv"  # Add folder to path
+        df.to_csv(csv_filename, index=False, encoding="utf-8")
+
         print(f"Successfully scraped {len(products)} products. Saved to {csv_filename}")
         return True
+
+
     
     except requests.exceptions.RequestException as e:
         print(f"Error making request: {e}")
